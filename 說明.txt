@@ -1,0 +1,3 @@
+進入網站：http://localhost:8081/Drink/HomePage
+
+個人負責的檔案：\DrinkSpringBoot\src\main\java\tw\drink\store\*
